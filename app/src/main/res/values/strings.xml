@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="app_iconDescription">Иконка</string>
+    <string name="app_nameSoc">name</string>
+    <string name="app_linkSoc">link</string>
+    <string name="app_button">Удалить</string>
+</resources>
